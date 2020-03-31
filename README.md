@@ -60,8 +60,9 @@ A Maratona Dev foi ministrada pelo <b>Dev Jedi</b> [Mayk Brito](https://github.c
 
 ### :muscle: Links:
 
-[Blog do Ministério da Saúde](http://www.blog.saude.gov.br/)
-[Rocketeseat](http://www.rocketeseat.com.br/)
+- [Blog do Ministério da Saúde](http://www.blog.saude.gov.br/)
+- [Rocketeseat](http://www.rocketeseat.com.br/)
+- [BCL-ST](https://www.bcl-st.com.br)
 
 
 Gostaria de agradecer ao pessoal da Rocketseat, pelos conteúdos de alto nível e 100% gratuito que ajudam e muito.
@@ -72,4 +73,4 @@ Entrem [na comunidade da Rocketseat :rocket:](https://discordapp.com/invite/gCRA
 
 ---
 
-Feito com ❤️ Brenno Dev
+Feito com ❤️ Brenno Dev 😍😍
