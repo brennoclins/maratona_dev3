@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2",
+    "nunjucks": "^3.2.0",
+    "pg": "^7.18.1"
+  },
+  "name": "maratonadev3",
+  "version": "1.0.0",
+  "description": "Sistema para cadastro de doadores de sangue",
+  "main": "server.js",
+  "author": "Kvera Groove",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon server.js"
+  }
+}
