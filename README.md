@@ -1,12 +1,12 @@
 <h4 align="center">
-    <img src="./frontend/public/logo.png" width="350px" /><br>
+    <img src="./frontend/public/logo.png" width="450px" /><br>
     <b>Seja um verdadeiro Heroi! Doe sangue 😍</b> 🦸‍♂️
 </h4>
 <p align="center">
-  <a href="https://rocketseat.com.br">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-red">
+  <a href="https://www.bcl-st.com.br">
+    <img alt="Made by BCL-ST" src="https://img.shields.io/badge/made%20by-BCLST-green">
   </a>
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-red">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-green">
 </p>
 
 <br>
